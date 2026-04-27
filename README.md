@@ -2,8 +2,7 @@
 
 ## 📝 What it does
 A Machine Learning filtering system that suggests books based on user reading history and genre preferences. It utilizes [mention algorithm, e.g., Cosine Similarity] to find the closest matches in the dataset.
-#### it geachieving a Precision of 0.8 and recall of 0.3, successfully suggesting relevant titles 
-based on user history. 
+#### It achieves a Precision of 0.8 and a recall of 0.3, successfully suggesting relevant titles based on user history. 
 
 ## ⚙️ How it works
 1.  **Data Ingestion:** Loads the dataset using Pandas.
