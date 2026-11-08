@@ -23,5 +23,5 @@ A Machine Learning filtering system that suggests books based on user reading hi
 * Processed a dataset of [Number] books.
 * Returns top 5 recommendations with high relevance.
 <p align="center">
-  <img src="DEPI/book-recommendation-demo.png" width="700">
+  <img src="DEPI/Screenshot-206.png" width="700">
 </p>
