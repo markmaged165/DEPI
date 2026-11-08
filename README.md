@@ -22,3 +22,5 @@ A Machine Learning filtering system that suggests books based on user reading hi
 ## 📈 Results
 * Processed a dataset of [Number] books.
 * Returns top 5 recommendations with high relevance.
+* [
+](https://cdn.gamma.app/hq07q1tq1929ape/ec0923b96af24424810eaefb71c82b75/original/Screenshot-206.png)
